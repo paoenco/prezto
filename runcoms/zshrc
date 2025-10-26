@@ -14,3 +14,6 @@ fi
 export LC_ALL='en_US.UTF-8'
 
 eval "$(rbenv init - zsh)"
+export MATCH_PASSWORD=gumball-underuse-budget
+export MATCH_KEYCHAIN_PASSWORD=chikkaMediaRING11
+ssh-add --apple-load-keychain
